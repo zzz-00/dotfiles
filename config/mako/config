@@ -1,0 +1,22 @@
+sort=-time
+layer=overlay
+background-color=#2e34407f
+width=420
+height=120
+border-size=2
+border-color=#8e4949
+border-radius=10
+icons=0
+max-icon-size=64
+default-timeout=5000
+ignore-timeout=0
+font="Maple Mono NF CN" 12
+margin=5
+padding=12,20
+
+[urgency=low]
+
+[urgency=normal]
+
+[urgency=critical]
+default-timeout=0
